@@ -1,2 +1,2 @@
 # JavaScriptHR
-Repo to showcase my JavaScript work.
+Repo to store my JavaScript snippets.
